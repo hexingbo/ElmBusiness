@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ElmBusiness.iml" filepath="$PROJECT_DIR$/ElmBusiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/ElmBusiness-app.iml" filepath="$PROJECT_DIR$/app/ElmBusiness-app.iml" group="ElmBusiness/app" />
+      <module fileurl="file://$PROJECT_DIR$/library/ElmBusiness-library.iml" filepath="$PROJECT_DIR$/library/ElmBusiness-library.iml" group="ElmBusiness/library" />
+      <module fileurl="file://$PROJECT_DIR$/Work-ElmBusiness.iml" filepath="$PROJECT_DIR$/Work-ElmBusiness.iml" group="ElmBusiness" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>

@@ -30,6 +30,11 @@ public class StickyHeadersTouchListener implements RecyclerView.OnItemTouchListe
 
     }
 
+    @Override
+    public void onRequestDisallowInterceptTouchEvent(boolean b) {
+
+    }
+
     public void setListener(OnHeaderClickListener listener) {
         this.listener = listener;
     }
